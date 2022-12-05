@@ -1,4 +1,3 @@
-# https://www.jessicayung.com/how-to-use-pickle-to-save-and-load-variables-in-python/
 # This version was last updated: May 28, 2021 @ 6pm
 # All run-specific modifications are performed inside NS_solver()
 
