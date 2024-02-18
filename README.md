@@ -2,3 +2,5 @@
 Python solver of the Navier Stokes equations for incompressible lid-driven flow in a rectangular domain
 
 See Final-Report.pdf for a detailed description of the physical equations, numerical discretization, and verification and validation of each model function. I also benchmark the results against Ghia et al.
+
+For a movie of the time-evolution of the velocity field (quiver-plot), see navier-stokes-solver.gif
